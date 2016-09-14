@@ -1,0 +1,9 @@
+.idea/
+typings/
+dist/
+node_modules/
+reports/
+*/*.js
+*.map
+!config/*.js
+*.iml
